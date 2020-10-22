@@ -1,0 +1,2 @@
+rootProject.name='GMDemo'
+include ':app'
